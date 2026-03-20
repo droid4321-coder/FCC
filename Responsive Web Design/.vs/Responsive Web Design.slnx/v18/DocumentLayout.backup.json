@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\PC\\Desktop\\GitHub\\FCC\\Responsive Web Design\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\PC\\Desktop\\GitHub\\FCC\\Responsive Web Design\\HTML\\SemanticList.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:HTML\\SemanticList.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\PC\\Desktop\\GitHub\\FCC\\Responsive Web Design\\HTML\\Audio.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:HTML\\Audio.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\PC\\Desktop\\GitHub\\FCC\\Responsive Web Design\\Basic Review.txt||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Basic Review.txt||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -35,6 +43,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "SemanticList.html",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\GitHub\\FCC\\Responsive Web Design\\HTML\\SemanticList.html",
+              "RelativeDocumentMoniker": "HTML\\SemanticList.html",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\GitHub\\FCC\\Responsive Web Design\\HTML\\SemanticList.html",
+              "RelativeToolTip": "HTML\\SemanticList.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-03-19T21:33:13.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Audio.html",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\GitHub\\FCC\\Responsive Web Design\\HTML\\Audio.html",
+              "RelativeDocumentMoniker": "HTML\\Audio.html",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\GitHub\\FCC\\Responsive Web Design\\HTML\\Audio.html",
+              "RelativeToolTip": "HTML\\Audio.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-03-19T21:32:59.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Basic Review.txt",
               "DocumentMoniker": "C:\\Users\\PC\\Desktop\\GitHub\\FCC\\Responsive Web Design\\Basic Review.txt",
               "RelativeDocumentMoniker": "Basic Review.txt",
@@ -47,7 +81,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Video Comp Page.html",
               "DocumentMoniker": "C:\\Users\\PC\\Desktop\\GitHub\\FCC\\Responsive Web Design\\Video Comp Page.html",
               "RelativeDocumentMoniker": "Video Comp Page.html",
@@ -59,7 +93,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "iframe.html",
               "DocumentMoniker": "C:\\Users\\PC\\Desktop\\GitHub\\FCC\\Responsive Web Design\\iframe.html",
               "RelativeDocumentMoniker": "iframe.html",
@@ -71,7 +105,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Heart SVG.html",
               "DocumentMoniker": "C:\\Users\\PC\\Desktop\\GitHub\\FCC\\Responsive Web Design\\Heart SVG.html",
               "RelativeDocumentMoniker": "Heart SVG.html",
@@ -83,7 +117,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Audio.html",
               "DocumentMoniker": "C:\\Users\\PC\\Desktop\\GitHub\\FCC\\Responsive Web Design\\Audio.html",
               "RelativeDocumentMoniker": "Audio.html",
