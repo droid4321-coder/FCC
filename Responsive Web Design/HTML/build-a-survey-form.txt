@@ -1,0 +1,57 @@
+** start of index.html **
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Survey Form</title>
+  </head>
+
+  <body>
+
+    <h1 id="title">My Survey Form</h1>
+    <p id="description">This is a survey form. Fill it, if you want to :)</p>
+
+    <form id="survey-form">
+
+      <label for="name" id="name-label"> Enter Text
+      <input type="text" id="name" placeholder="Enter Text Here" required>
+      </label><br>
+
+      <label for="email" id="email-label"> Enter Email here
+      <input type="email" id="email" placeholder="Enter email here" required>
+      </label><br>
+
+      <label for="number" id="number-label">Enter Number here
+      <input type="number" id="number" min="7" max="10" placeholder="Enter number here" required>
+      </label><br>
+
+      <label for="dropdown">Whats your Gender?</label>
+      <select id="dropdown">
+      <option value="male">Male</option>
+      <option value="female">Female</option>
+      </select><br>
+
+      <label>Android or iOS?</label>
+      <input type="checkbox" value="android">Android
+      <input type="checkbox" value="ios">iOS<br>
+
+      <label>Desktop or Laptop?</label>
+      <input name="radio" type="radio" value="desktop">Desktop
+      <input name="radio" type="radio" value="laptop">Laptop<br>
+
+      <label for="textarea">Any comments?</label><br>
+      <textarea id="textarea">
+      
+      </textarea><br>
+      
+      <button type="submit" id="submit">Submit</button>
+    </form>
+
+
+
+  </body>
+</html>
+
+** end of index.html **
+
