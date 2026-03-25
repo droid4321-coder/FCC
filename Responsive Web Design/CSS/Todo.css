@@ -1,0 +1,23 @@
+.sub-item-link {
+    text-decoration: none;
+}
+
+a:link {
+    color: red;
+}
+
+a:visited {
+    color: green;
+}
+
+a:hover {
+    color: yellow;
+}
+
+.sub-item-link:focus {
+    outline: 1px solid black;
+}
+
+a:active {
+    color: purple;
+}

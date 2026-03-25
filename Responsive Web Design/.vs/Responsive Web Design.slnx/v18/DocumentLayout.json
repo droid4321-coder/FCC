@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\PC\\Desktop\\GitHub\\FCC\\Responsive Web Design\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\PC\\Desktop\\GitHub\\FCC\\Responsive Web Design\\CSS\\Todo.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CSS\\Todo.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\PC\\Desktop\\GitHub\\FCC\\Responsive Web Design\\CSS\\Todo.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CSS\\Todo.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\PC\\Desktop\\GitHub\\FCC\\Responsive Web Design\\CSS\\BusinessCard.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CSS\\BusinessCard.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
@@ -27,6 +35,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Todo.css",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\GitHub\\FCC\\Responsive Web Design\\CSS\\Todo.css",
+              "RelativeDocumentMoniker": "CSS\\Todo.css",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\GitHub\\FCC\\Responsive Web Design\\CSS\\Todo.css",
+              "RelativeToolTip": "CSS\\Todo.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-03-25T16:42:27.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Todo.html",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\GitHub\\FCC\\Responsive Web Design\\CSS\\Todo.html",
+              "RelativeDocumentMoniker": "CSS\\Todo.html",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\GitHub\\FCC\\Responsive Web Design\\CSS\\Todo.html",
+              "RelativeToolTip": "CSS\\Todo.html",
+              "ViewState": "AgIAABUAAAAAAAAAAAAiwDMAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-03-25T16:42:18.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "BusinessCard.css",
               "DocumentMoniker": "C:\\Users\\PC\\Desktop\\GitHub\\FCC\\Responsive Web Design\\CSS\\BusinessCard.css",
               "RelativeDocumentMoniker": "CSS\\BusinessCard.css",
@@ -39,7 +73,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "BusinessCard.html",
               "DocumentMoniker": "C:\\Users\\PC\\Desktop\\GitHub\\FCC\\Responsive Web Design\\CSS\\BusinessCard.html",
               "RelativeDocumentMoniker": "CSS\\BusinessCard.html",
@@ -47,12 +81,11 @@
               "RelativeToolTip": "CSS\\BusinessCard.html",
               "ViewState": "AgIAAAEAAAAAAAAAAAAiwB8AAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2026-03-25T00:01:55.548Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-25T00:01:55.548Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Coffee.html",
               "DocumentMoniker": "C:\\Users\\PC\\Desktop\\GitHub\\FCC\\Responsive Web Design\\CSS\\Coffee.html",
               "RelativeDocumentMoniker": "CSS\\Coffee.html",
@@ -60,8 +93,7 @@
               "RelativeToolTip": "CSS\\Coffee.html",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2026-03-24T23:54:53.907Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-24T23:54:53.907Z"
             }
           ]
         }
