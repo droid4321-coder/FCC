@@ -1,0 +1,14 @@
+input[type="checkbox"] {
+    appearance: none;
+    border: 100px solid black;
+}
+
+    input[type="checkbox"]:checked {
+        content: "✓";
+        background-color: green;
+        border: 100px solid green;
+    }
+
+        input[type="checkbox"]:checked::after {
+            content: "✓";
+        }
