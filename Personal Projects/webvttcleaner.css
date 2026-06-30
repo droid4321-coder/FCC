@@ -1,0 +1,24 @@
+* {
+    box-sizing: border-box;
+}
+h1 {
+    text-align: center;
+}
+
+.container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.webvtt-container {
+    justify-content: left;
+    align-items: flex-start;
+    margin-left:10%;
+}
+
+.cleaned-container {
+    justify-content: right;
+    align-items: flex-end;
+    margin-right:10%;
+}

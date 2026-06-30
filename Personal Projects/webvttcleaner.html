@@ -8,21 +8,32 @@
 
 <body>
 
+        <h1>WebVTT Cleaner</h1>
+        <br>
+
     <div class="container">
 
-        <h1>WebVTT Cleaner</h1>
 
         <div class="webvtt-container">
             <label for="webvtt-file">Paste the WebVTT file in the following textbox:</label>
-            <textarea></textarea>
+            <br>
+            <textarea id="webvtt-file" rows="40" cols="50"></textarea>
+        </div>
+
+        <div class="center-container">
+            <button type="button" id="convert-button">Convert WebVTT File</button>
         </div>
 
         <div class="cleaned-container">
-            <
+            <label for="cleaned-file">Cleaned WebVTT:</label>
+            <br>
+            <textarea id="cleaned-file" rows="40" cols="50"></textarea>
         </div>
 
     </div>
 
 </body>
+
+<script src="webvttcleaner.js"></script>
 
 </html>
