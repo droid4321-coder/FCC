@@ -11,6 +11,11 @@ h1 {
     align-items: center;
 }
 
+.center-container {
+    flex-direction: row;
+    margin: 10% 0 10% 0;
+}
+
 .webvtt-container {
     justify-content: left;
     align-items: flex-start;
