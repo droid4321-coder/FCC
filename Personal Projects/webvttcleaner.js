@@ -44,8 +44,12 @@ convertButton.addEventListener("click", () => {
     .replace(MULTIPLE_SPACES, "")
     .replace(EMPTY_LINES, "")
     .trim();
-    console.log("Cleaned Text:" + cleanedText)
+    //console.log("Cleaned Text:" + cleanedText)
     cleanedWebvtt.value = cleanedText;
+
+    //split by paragraph experiment;
+    trimText = cleanedText.replace(/\s+/g, " ").trim();
+    console.log("Trimmed text: " + trimText)
 })
 
 clearWebvtt.addEventListener("click", () => webvttText.value = "")
