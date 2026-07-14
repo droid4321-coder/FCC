@@ -7,7 +7,8 @@ function countdown (seconds) {
     console.log(`Seconds to countdown: ${seconds}`)
 
     const countdownId = setInterval(() => {
-        console.log(`${seconds} ${"|".repeat(seconds)}`);
+        //console.log(`${seconds} ${"|".repeat(seconds)}`);
+        console.log(`The countdown ends in ${seconds} seconds`);
         seconds--;
         if (seconds < 0) {
             clearInterval(countdownId);
